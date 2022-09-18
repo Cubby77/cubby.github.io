@@ -1,0 +1,261 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Sep 2022 23:36:14 at https://www.wellsfargo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wellsfargo.com/ -O1 "C:\My Web Sites\wellsfargo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:39:16	Warning: 	Moved Permanently for https://www.wellsfargo.com/about/
+23:39:16	Warning: 	File has moved from https://www.wellsfargo.com/about/ to /es/about/
+23:39:16	Warning: 	Moved Temporarily for https://www.wellsfargo.com/help/
+23:39:16	Warning: 	File has moved from https://www.wellsfargo.com/help/ to https://www.wellsfargo.com/es/help/
+23:39:16	Warning: 	Moved Permanently for https://www.wellsfargo.com/help/routing-number/
+23:39:16	Warning: 	File has moved from https://www.wellsfargo.com/help/routing-number/ to /es/help/routing-number/
+23:39:16	Warning: 	Moved Temporarily for https://www.wellsfargo.com/checking/
+23:39:16	Warning: 	File has moved from https://www.wellsfargo.com/checking/ to https://www.wellsfargo.com/es/checking/
+23:39:17	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/
+23:39:17	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/ to https://www.wellsfargo.com/es/savings-cds/
+23:39:17	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/
+23:39:17	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/ to https://www.wellsfargo.com/es/mortgage/
+23:39:42	Warning: 	Moved Temporarily for https://www.wellsfargo.com/premier/
+23:39:42	Warning: 	File has moved from https://www.wellsfargo.com/premier/ to https://www.wellsfargo.com/es/premier/
+23:39:42	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-education/
+23:39:42	Warning: 	File has moved from https://www.wellsfargo.com/financial-education/ to https://www.wellsfargo.com/es/financial-education/
+23:39:56	Warning: 	Moved Temporarily for https://www.wellsfargo.com/biz/
+23:39:56	Warning: 	File has moved from https://www.wellsfargo.com/biz/ to https://www.wellsfargo.com/es/biz/
+23:40:17	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/clear-access-banking/
+23:40:17	Warning: 	File has moved from https://www.wellsfargo.com/checking/clear-access-banking/ to /es/checking/clear-access-banking/
+23:40:19	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/prime/
+23:40:19	Warning: 	File has moved from https://www.wellsfargo.com/checking/prime/ to /es/checking/prime/
+23:40:20	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/everyday/
+23:40:20	Warning: 	File has moved from https://www.wellsfargo.com/checking/everyday/ to /es/checking/everyday/
+23:40:22	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/premier/
+23:40:22	Warning: 	File has moved from https://www.wellsfargo.com/checking/premier/ to /es/checking/premier/
+23:40:23	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/student/
+23:40:23	Warning: 	File has moved from https://www.wellsfargo.com/checking/student/ to /es/checking/student/
+23:40:24	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/overdraft-services/
+23:40:24	Warning: 	File has moved from https://www.wellsfargo.com/checking/overdraft-services/ to /es/checking/overdraft-services/
+23:40:25	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/fraud/
+23:40:25	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/ to https://www.wellsfargo.com/es/privacy-security/fraud/
+23:40:26	Warning: 	Moved Temporarily for https://www.wellsfargo.com/help/checking-savings/
+23:40:26	Warning: 	File has moved from https://www.wellsfargo.com/help/checking-savings/ to https://www.wellsfargo.com/es/help/checking-savings/
+23:40:28	Warning: 	Moved Permanently for https://www.wellsfargo.com/international-remittances/
+23:40:28	Warning: 	File has moved from https://www.wellsfargo.com/international-remittances/ to /es/international-remittances/
+23:40:29	Warning: 	Moved Temporarily for https://www.wellsfargo.com/foreign-exchange/
+23:40:29	Warning: 	File has moved from https://www.wellsfargo.com/foreign-exchange/ to https://www.wellsfargo.com/es/foreign-exchange/
+23:40:32	Warning: 	Moved Temporarily for https://www.wellsfargo.com/goals-banking-made-easy/activate-debit-card/
+23:40:32	Warning: 	File has moved from https://www.wellsfargo.com/goals-banking-made-easy/activate-debit-card/ to https://www.wellsfargo.com/es/goals-banking-made-easy/activate-debit-card/
+23:40:33	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/
+23:40:33	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/ to /es/online-banking/
+23:40:34	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mobile/apps/
+23:40:34	Warning: 	File has moved from https://www.wellsfargo.com/mobile/apps/ to https://www.wellsfargo.com/es/mobile/apps/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/transfer-pay/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/transfer-pay/ to /es/online-banking/transfer-pay/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/fraud/report/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/report/ to /es/privacy-security/fraud/report/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/savings-cds/rates/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/rates/ to /es/savings-cds/rates/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/savings-cds/way2save/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/way2save/ to /es/savings-cds/way2save/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/savings-cds/platinum/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/platinum/ to /es/savings-cds/platinum/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/savings-cds/certificate-of-deposit/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/certificate-of-deposit/ to /es/savings-cds/certificate-of-deposit/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/savings-cds/kids/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/kids/ to /es/savings-cds/kids/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/tax-center/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/tax-center/ to /es/tax-center/
+23:40:35	Warning: 	Moved Permanently for https://www.wellsfargo.com/credit-cards/
+23:40:35	Warning: 	File has moved from https://www.wellsfargo.com/credit-cards/ to /es/credit-cards/
+23:40:48	Warning: 	Moved Temporarily for https://www.wellsfargo.com/preselected/?lang=en
+23:40:48	Warning: 	File has moved from https://www.wellsfargo.com/preselected/?lang=en to https://web.secure.wellsfargo.com/credit-cards/yourinfo/?lang=en
+23:40:48	Warning: 	Moved Permanently for https://www.wellsfargo.com/mobile/payments/
+23:40:48	Warning: 	File has moved from https://www.wellsfargo.com/mobile/payments/ to /es/mobile/payments/
+23:40:48	Warning: 	Moved Temporarily for https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/fico/
+23:40:48	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/fico/ to https://www.wellsfargo.com/es/goals-credit/smarter-credit/credit-101/fico/
+23:40:48	Warning: 	Moved Temporarily for https://www.wellsfargo.com/help/credit-cards/credit-card-faqs/
+23:40:48	Warning: 	File has moved from https://www.wellsfargo.com/help/credit-cards/credit-card-faqs/ to https://www.wellsfargo.com/es/help/credit-cards/credit-card-faqs/
+23:41:10	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/
+23:41:10	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/ to https://www.wellsfargo.com/es/mortgage/buying-a-house/
+23:41:10	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/mortgage-refinance/
+23:41:10	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/mortgage-refinance/ to https://www.wellsfargo.com/es/mortgage/mortgage-refinance/
+23:41:10	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/first-time-home-buyer/
+23:41:10	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/first-time-home-buyer/ to https://www.wellsfargo.com/es/mortgage/buying-a-house/first-time-home-buyer/
+23:41:20	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/manage-account/
+23:41:20	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/manage-account/ to https://www.wellsfargo.com/es/mortgage/manage-account/
+23:41:20	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/manage-account/payment-help/
+23:41:20	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/manage-account/payment-help/ to /es/mortgage/manage-account/payment-help/
+23:41:29	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/calculators/
+23:41:29	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/calculators/ to https://www.wellsfargo.com/es/mortgage/calculators/
+23:42:21	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-credit/
+23:42:21	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/ to /es/goals-credit/
+23:42:21	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-credit/large-expenses/pay-for-large-expense/
+23:42:21	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/large-expenses/pay-for-large-expense/ to /es/goals-credit/large-expenses/pay-for-large-expense/
+23:42:40	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-education/homeownership/
+23:42:40	Warning: 	File has moved from https://www.wellsfargo.com/financial-education/homeownership/ to https://www.wellsfargo.com/es/financial-education/homeownership/
+23:42:40	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-education/basic-finances/manage-money/
+23:42:40	Warning: 	File has moved from https://www.wellsfargo.com/financial-education/basic-finances/manage-money/ to https://www.wellsfargo.com/es/financial-education/basic-finances/manage-money/
+23:42:53	Warning: 	Moved Temporarily for https://www.wellsfargo.com/goals-banking-made-easy/
+23:42:53	Warning: 	File has moved from https://www.wellsfargo.com/goals-banking-made-easy/ to https://www.wellsfargo.com/es/goals-banking-made-easy/
+23:42:59	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-education/basic-finances/manage-money/cashflow-savings/emergencies/
+23:42:59	Warning: 	File has moved from https://www.wellsfargo.com/financial-education/basic-finances/manage-money/cashflow-savings/emergencies/ to https://www.wellsfargo.com/es/financial-education/basic-finances/manage-money/cashflow-savings/emergencies/
+23:43:07	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-credit/debt-to-income-calculator/
+23:43:07	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/debt-to-income-calculator/ to /es/goals-credit/debt-to-income-calculator/
+23:43:07	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon
+23:43:07	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon to https://www.wellsfargo.com/es/privacy-security/fraud/?linkLoc=signon
+23:43:07	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/?linkLoc=signon
+23:43:07	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/?linkLoc=signon to /es/privacy-security/?linkLoc=signon
+23:43:07	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHK
+23:43:07	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHK to https://www.wellsfargo.com/es/mortgage/buying-a-house/?dm=DMIWE7AWHK
+23:43:07	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHM
+23:43:07	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHM to https://www.wellsfargo.com/es/mortgage/buying-a-house/?dm=DMIWE7AWHM
+23:43:07	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/
+23:43:07	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/ to /es/privacy-security/
+23:46:19	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/credit-cards/
+23:46:19	Warning: 	File has moved from https://www.wellsfargo.com/es/credit-cards/ to https://creditcards.wellsfargo.com/es/
+23:51:15	Warning: 	Moved Permanently for https://www.wellsfargo.com/confirmetarjeta/
+23:51:15	Warning: 	File has moved from https://www.wellsfargo.com/confirmetarjeta/ to https://confirmcard.wellsfargo.com?language=es
+23:53:01	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/goals-credit/large-expenses/pay-for-large-expense/
+23:53:01	Warning: 	File has moved from https://www.wellsfargo.com/es/goals-credit/large-expenses/pay-for-large-expense/ to /es/financial-education/basic-finances/manage-money/budget/expenses
+23:56:48	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/personal-credit/
+23:56:48	Warning: 	File has moved from https://www.wellsfargo.com/es/personal-credit/ to /personal-loans/
+23:57:53	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/overdraft-rewind/
+23:57:53	Warning: 	File has moved from https://www.wellsfargo.com/checking/overdraft-rewind/ to /checking/extra-day-grace-period/
+23:58:05	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/customize-v1/ not scanned (follow robots meta tag)
+23:58:06	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/customize-v2/ not scanned (follow robots meta tag)
+23:58:06	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/customize-v3/ not scanned (follow robots meta tag)
+23:58:07	Warning: 	Link https://www.wellsfargo.com/mortgage/mortgage-refinance-v1/ not scanned (follow robots meta tag)
+23:58:07	Warning: 	Link https://www.wellsfargo.com/mortgage/mortgage-refinance-v2/ not scanned (follow robots meta tag)
+23:58:07	Warning: 	Link https://www.wellsfargo.com/mortgage/mortgage-refinance-v3/ not scanned (follow robots meta tag)
+23:58:08	Warning: 	Link https://www.wellsfargo.com/mortgage/buying-a-house-v1/ not scanned (follow robots meta tag)
+23:58:08	Warning: 	Link https://www.wellsfargo.com/mortgage/buying-a-house-v2/ not scanned (follow robots meta tag)
+23:58:08	Warning: 	Link https://www.wellsfargo.com/mortgage/buying-a-house-v3/ not scanned (follow robots meta tag)
+00:00:12	Warning: 	Moved Permanently for https://www.wellsfargo.com/investing/
+00:00:12	Warning: 	File has moved from https://www.wellsfargo.com/investing/ to /investing-wealth/
+00:02:40	Warning: 	Link https://www.wellsfargo.com/investing/guidance/consultation/ not scanned (follow robots meta tag)
+00:04:20	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/financing/real-estate/
+00:04:20	Warning: 	File has moved from https://www.wellsfargo.com/com/financing/real-estate/ to /cib/commercial-real-estate/
+00:04:24	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/securities/asset-backed-finance/
+00:04:24	Warning: 	File has moved from https://www.wellsfargo.com/com/securities/asset-backed-finance/ to /cib/institutional-investing/asset-backed-finance/
+00:05:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/securities/investment-banking/
+00:05:39	Warning: 	File has moved from https://www.wellsfargo.com/com/securities/investment-banking/ to /cib/corporations-institutions/
+00:05:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/securities/markets/
+00:05:39	Warning: 	File has moved from https://www.wellsfargo.com/com/securities/markets/ to /cib/institutional-investing/
+00:05:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/international/
+00:05:39	Warning: 	File has moved from https://www.wellsfargo.com/com/international/ to /cib/global-services/
+00:05:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/insights/economics/
+00:05:39	Warning: 	File has moved from https://www.wellsfargo.com/com/insights/economics/ to /cib/insights/economics/
+00:08:55	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/investments/
+00:08:55	Warning: 	File has moved from https://www.wellsfargo.com/com/investments/ to /cib/institutional-investing/
+00:08:55	Warning: 	Moved Permanently for https://www.wellsfargo.com/com/corporate-banking/
+00:08:55	Warning: 	File has moved from https://www.wellsfargo.com/com/corporate-banking/ to /cib/corporations-institutions/industry-expertise/
+00:09:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions/?prod=6 not scanned (follow robots meta tag)
+00:09:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions/?prod=7 not scanned (follow robots meta tag)
+00:09:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions/?prod=8 not scanned (follow robots meta tag)
+00:09:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions/?prod=9 not scanned (follow robots meta tag)
+00:09:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions/?prod=10 not scanned (follow robots meta tag)
+00:09:13	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions/?prod=11 not scanned (follow robots meta tag)
+00:09:13	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions/?prod=1 not scanned (follow robots meta tag)
+00:09:13	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions/?prod=2 not scanned (follow robots meta tag)
+00:09:13	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions/?prod=3 not scanned (follow robots meta tag)
+00:09:13	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions/?prod=4 not scanned (follow robots meta tag)
+00:09:14	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions/?prod=5 not scanned (follow robots meta tag)
+00:09:14	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/locations/
+00:09:14	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/locations/ to https://homeloans.wellsfargo.com/search/
+00:09:17	Warning: 	Link https://www.wellsfargo.com/help/questions-concerns/ not scanned (follow robots meta tag)
+00:09:18	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/manage-account/online/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/manage-account/online/)
+00:11:46	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/apply/application-start/
+00:11:46	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/apply/application-start/ to /mortgage/apply/index.content
+00:11:50	Warning: 	Link https://www.wellsfargo.com/search/ not scanned (follow robots meta tag)
+00:11:55	Warning: 	Link https://www.wellsfargo.com/home-center/reference/ not scanned (follow robots meta tag)
+00:12:31	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=1210192222 not scanned (follow robots meta tag)
+00:13:49	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=18103222 not scanned (follow robots meta tag)
+00:14:56	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=17146222 not scanned (follow robots meta tag)
+00:15:03	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=119478222 not scanned (follow robots meta tag)
+00:15:05	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=219478222 not scanned (follow robots meta tag)
+00:16:47	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=143553222 not scanned (follow robots meta tag)
+00:22:08	Warning: 	Moved Permanently for https://www.wellsfargo.com/stories/
+00:22:08	Warning: 	File has moved from https://www.wellsfargo.com/stories/ to https://stories.wf.com/?cid=vty
+00:26:16	Warning: 	Link https://www.wellsfargo.com/mortgage/principles/responsible-servicing/ not scanned (follow robots meta tag)
+00:26:23	Warning: 	Moved Permanently for https://www.wellsfargo.com/about/corporate/stagecoach/
+00:26:23	Warning: 	File has moved from https://www.wellsfargo.com/about/corporate/stagecoach/ to /about/corporate/history/#thewellsfargostagecoach
+00:28:22	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=173151222 not scanned (follow robots meta tag)
+00:28:27	Warning: 	Link https://www.wellsfargo.com/biz/sitemap/ not scanned (follow robots meta tag)
+00:28:28	Warning: 	Moved Permanently for https://www.wellsfargo.com/personal-credit/
+00:28:28	Warning: 	File has moved from https://www.wellsfargo.com/personal-credit/ to /personal-loans/
+00:29:38	Warning: 	Link https://www.wellsfargo.com/es/checking/everyday/monthly-service-fee-everyday/ not scanned (follow robots meta tag)
+00:29:38	Warning: 	Link https://www.wellsfargo.com/es/checking/clear-access-banking/monthly-service-fee-clear-access-banking/ not scanned (follow robots meta tag)
+00:29:38	Warning: 	Link https://www.wellsfargo.com/es/checking/prime/monthly-service-fee-prime/ not scanned (follow robots meta tag)
+00:29:38	Warning: 	Link https://www.wellsfargo.com/es/checking/premier/monthly-service-fee-premier/ not scanned (follow robots meta tag)
+00:29:39	Warning: 	Link https://www.wellsfargo.com/es/checking/clear-access-banking/what-you-need/ not scanned (follow robots meta tag)
+00:29:39	Warning: 	Link https://www.wellsfargo.com/es/checking/everyday/what-you-need/ not scanned (follow robots meta tag)
+00:29:39	Warning: 	Link https://www.wellsfargo.com/es/checking/prime/what-you-need/ not scanned (follow robots meta tag)
+00:29:39	Warning: 	Link https://www.wellsfargo.com/es/checking/premier/what-you-need/ not scanned (follow robots meta tag)
+00:31:40	Warning: 	Link https://www.wellsfargo.com/es/checking/premier/qualifying-linked-balances/ not scanned (follow robots meta tag)
+00:32:03	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/es/financial-education/insurance-protection/?linkLoc=fn (from https://www.wellsfargo.com/es/financial-education/)
+00:35:29	Warning: 	Link https://www.wellsfargo.com/biz/merchant/contact-us1/ not scanned (follow robots meta tag)
+00:38:16	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/biz/security-center/index/?linkLoc=signon
+00:38:16	Warning: 	File has moved from https://www.wellsfargo.com/es/biz/security-center/index/?linkLoc=signon to https://www.wellsfargo.com/es/biz/security-center/?linkLoc=signon
+00:38:20	Warning: 	Link https://www.wellsfargo.com/es/biz/sitemap/ not scanned (follow robots meta tag)
+00:38:20	Warning: 	Link https://www.wellsfargo.com/es/checking/fee-period/ not scanned (follow robots meta tag)
+00:38:30	Warning: 	Link https://www.wellsfargo.com/es/checking/prime/qualifying-linked-balances/ not scanned (follow robots meta tag)
+00:38:49	Warning: 	Link https://www.wellsfargo.com/es/checking/direct-deposit/ not scanned (follow robots meta tag)
+00:39:09	Warning: 	Link https://www.wellsfargo.com/es/privacy-security/fraud/bank-scams/bank-imposter/ not scanned (follow robots meta tag)
+00:40:26	Warning: 	Link https://www.wellsfargo.com/es/prepaid/ not scanned (follow robots meta tag)
+00:48:12	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/locations/?e=1
+00:48:12	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/locations/?e=1 to https://homeloans.wellsfargo.com/search/
+00:50:53	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/online-banking/manage-accounts/control-tower/
+00:50:53	Warning: 	File has moved from https://www.wellsfargo.com/es/online-banking/manage-accounts/control-tower/ to /es/online-banking/manage-accounts/card-controls/
+00:50:56	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/help/faqs/locations/ (from https://www.wellsfargo.com/es/help/locations/)
+00:51:18	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_01.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:18	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_02.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:18	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_03.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:18	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_04.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:19	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_05.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:19	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_06.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:19	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_07.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:51:19	Error: 	"Not Found" (404) at link https://www17.wellsfargomedia.com/assets/images/css/template/bg_hero_desktop_08.jpg (from https://www.wellsfargo.com/css/template/fullwidth.css)
+00:52:05	Warning: 	Link https://www.wellsfargo.com/goals-credit/smarter-credit/pay-yourself-first/ not scanned (follow robots meta tag)
+00:52:11	Warning: 	Link https://www.wellsfargo.com/home-center/reference/loan-estimate/ not scanned (follow robots meta tag)
+00:52:12	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/contact/
+00:52:12	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/contact/ to https://web.secure.wellsfargo.com/mortgage/connect/contact-us
+00:52:12	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=1191310222 not scanned (follow robots meta tag)
+00:52:12	Warning: 	Link https://www.wellsfargo.com/investing/guidance/financial-consultation-appointment-request/ not scanned (follow robots meta tag)
+00:52:44	Warning: 	Link https://www.wellsfargo.com/investing/retirement/ not scanned (follow robots meta tag)
+00:52:49	Warning: 	Link https://www.wellsfargo.com/investing/retirement/consultation-1/ not scanned (follow robots meta tag)
+00:52:59	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=116373222 not scanned (follow robots meta tag)
+00:53:22	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=115794222 not scanned (follow robots meta tag)
+00:53:24	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=116231222 not scanned (follow robots meta tag)
+00:53:38	Warning: 	Link https://www.wellsfargo.com/investing/retirement/tools/my-retirement-plan/calculations/ not scanned (follow robots meta tag)
+00:55:13	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=297291222 not scanned (follow robots meta tag)
+00:55:13	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=197291222 not scanned (follow robots meta tag)
+00:55:18	Warning: 	Link https://www.wellsfargo.com/the-private-bank/connect/ not scanned (follow robots meta tag)
+00:55:41	Warning: 	Link https://www.wellsfargo.com/the-private-bank/connect/?linkLoc=fn not scanned (follow robots meta tag)
+00:58:18	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=126622222 not scanned (follow robots meta tag)
+00:58:55	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=127164222 not scanned (follow robots meta tag)
+00:59:37	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=1192146222 not scanned (follow robots meta tag)
+01:00:16	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=127071222 not scanned (follow robots meta tag)
+01:00:37	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=127125222 not scanned (follow robots meta tag)
+01:01:07	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=126624222 not scanned (follow robots meta tag)
+01:02:00	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=1121171222 not scanned (follow robots meta tag)
+01:06:38	Warning: 	Link https://www.wellsfargo.com/com/treasury-management/payables/commercial-card/wellsone-expense-manager/ not scanned (follow robots meta tag)
+01:07:25	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/cib/focus/stories/westrock/@@Component.ID@@ (from https://www.wellsfargo.com/cib/focus/stories/westrock/)
+01:07:25	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/cib/focus/stories/dantes-partners/@@Component.ID@@ (from https://www.wellsfargo.com/cib/focus/stories/dantes-partners/)
+01:07:46	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/cib/corporations-institutions/industry_expertise/ (from https://www.wellsfargo.com/cib/corporations-institutions/industry-expertise/)
+01:08:14	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=267226222 not scanned (follow robots meta tag)
+01:08:14	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=367226222 not scanned (follow robots meta tag)
+01:08:14	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=467226222 not scanned (follow robots meta tag)
+01:08:14	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=567226222 not scanned (follow robots meta tag)
+01:08:14	Warning: 	Link https://www.wellsfargo.com/exit/e/?id=167226222 not scanned (follow robots meta tag)
+01:09:32	Warning: 	Link https://www.wellsfargo.com/cib/global-services/canada/pagedaccueil/ not scanned (follow robots meta tag)
+01:10:12	Warning: 	Link https://www.wellsfargo.com/privacy-security/fraud/bank-scams/real-estate-scam/ not scanned (follow robots meta tag)
+01:11:18	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/learning/getting-started/understanding-credit-report-and-credit-score/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/learning/getting-started/understanding-credit-report-and-credit-score/)
+01:11:18	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/learning/getting-started/get-or-stay-financially-healthy/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/learning/getting-started/get-or-stay-financially-healthy/)
+01:11:18	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/learning/preparing/know-your-borrowing-power/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/learning/preparing/know-your-borrowing-power/)
+01:11:20	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/learning/evaluating-mortgages/compare-lenders-and-mortgage-offerings/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/learning/evaluating-mortgages/compare-lenders-and-mortgage-offerings/)
+01:11:20	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/learning/homeownership/ways-to-potentially-pay-down-mortgage-faster/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/learning/homeownership/ways-to-potentially-pay-down-mortgage-faster/)
+01:11:25	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/public/media/ind-lock-white-mob-10x15.2ae0e067.svg (from https://www.wellsfargo.com/css/widgets/ui/affordability-wizard/css/wfui.chunk.css)
+01:11:25	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/public/media/subnav-lock-icon-e-12x18.d86e698e.svg (from https://www.wellsfargo.com/css/widgets/ui/affordability-wizard/css/wfui.chunk.css)
+01:11:25	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/public/media/icn-ind-nav-home-navmenu-white-18x18.a76cf2f5.svg (from https://www.wellsfargo.com/css/widgets/ui/affordability-wizard/css/wfui.chunk.css)
+01:11:25	Error: 	"Not Found" (404) at link https://www.wellsfargo.com/mortgage/learning/mortgage-payment-components-video/@@Component.ID@@ (from https://www.wellsfargo.com/mortgage/learning/mortgage-payment-components-video/)
